@@ -76,11 +76,13 @@ h1{
     font-size: 16px;
     color:black;
     text-align: left;
-    display: block;
+    display: inline-block;
+    max-width: 49.5%;
+    vertical-align: top;
     border:2px solid black;
-    /* min-height: 500px; */
-    margin: 10px;
-    padding: 15px;
+    min-height: 480px;
+    margin: 3px;
+    padding: 0;
 }
 .informazioni{
     
@@ -90,4 +92,11 @@ h1{
     text-decoration-line: underline;
     display: block;
     padding: 15px;
+}
+.body-introduzione{
+    padding: 5px;
+    margin: 5px;
+}
+h2{
+    margin: 7px;
 }
