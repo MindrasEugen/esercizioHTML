@@ -17,6 +17,9 @@ h1{
     font-size: 40px ;
     color: #A9B3C1;
     text-align: center;
+    text-shadow: 3px 2px 3px white;
+    text-decoration: underline;
+    text-decoration-color: #A9B3C1;
 }
 .header{
     text-align: center;
